@@ -57,3 +57,4 @@ Input: [1,3,2]
 Output: false
 
 * Q4_MoveZeroes
+* Q5_RemoveDuplicatesFromSortedArray
