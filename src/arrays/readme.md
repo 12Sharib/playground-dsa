@@ -58,3 +58,4 @@ Output: false
 
 * Q4_MoveZeroes
 * Q5_RemoveDuplicatesFromSortedArray
+* Q6_RemoveElement
