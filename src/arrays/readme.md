@@ -61,3 +61,4 @@ Output: false
 * Q6_RemoveElement
 * Q7_RunningSumOf1DArray
 * Q8_BestTimeToBuyAndSellStock 
+* Q9_MajorityElement
