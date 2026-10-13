@@ -1,2 +1,2 @@
 ## DSA Playground
-### Arrays
+* Q26_NextGreaterElementI
